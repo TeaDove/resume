@@ -50,23 +50,32 @@
 - [Доклад](https://www.youtube.com/watch?v=cSZrWpyNlfI) на конференции PyCon RU "Как использовать serverless и не наломать дров" 
 
 ## НАВЫКИ		
-Языки программирования: 
-Основной: Go 1.21, Python 3.10
-
-Базы данных и иная инфраструктура: Postgresql, PostGIS, DynamoDB, Redis, Tile38, Kafka, SQS
-
-Фреймворки и библиотеки: Go: Gin, Gorm, Zerolog, Python: Fastapi, SQLAlchemy
-
-Опыт работы с Git, Github, Gitlab, Trello, Notion.
-
-Работа с *nix-системами, bash скрипты, администрирование linux серверов
-
-Latex - вёрстка математических текстов.
-
-Математическое и логическое мышление. 
-Самообучаемость, автономность, сосредоточенность на задаче.
-
-Английский язык: B2, IELTS 6.0
+- Языки программирования: 
+	- Go 1.21 
+	- Python 3.10
+- Базы данных и иная инфраструктура: 
+	- Postgresql
+	- PostGIS
+	- DynamoDB
+	- Redis
+	- Tile38
+	- Kafka
+	- SQS
+- Фреймворки и библиотеки:
+	- Go
+		- Gin
+		- Gorm
+		- Zerolog
+	- Python
+		- Fastapi
+		- SQLAlchemy
+- Опыт работы с Git, Github, Gitlab, Trello, Notion.
+- Работа с *nix-системами, bash скрипты, администрирование linux серверов
+- Latex - вёрстка математических текстов.
+- Математическое и логическое мышление. Самообучаемость, автономность, сосредоточенность на задаче.
+- Языки: 
+	- Английский язык: B2, IELTS 6.0
+	- Русский язык: родной
 
 ### Ссылки
 - [Github](https://github.com/TeaDove/)
