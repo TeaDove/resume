@@ -1,5 +1,5 @@
 ## Ибрагимов Петер Ильгизович
-#### Senior backend Go developer/teamlead
+#### Senior backend Go developer
 Связаться:
 - Телеграм: [@teadove](https://t.me/teadove) (предпочтительно)
 - Почта: [peter.ibragimov@gmail.com](mailto:peter.ibragimov@gmail.com)
