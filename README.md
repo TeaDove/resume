@@ -1,3 +1,3 @@
 # Resume
-- [ru](https://github.com/TeaDove/resume/blob/master/RESUME_RU.md), [pdf](https://github.com/TeaDove/resume/blob/master/RESUME_RU.pdf) [download](https://raw.githubusercontent.com/TeaDove/resume/master/RESUME_RU.pdf)
-- [en](https://github.com/TeaDove/resume/blob/master/RESUME_EN.md), [pdf](https://github.com/TeaDove/resume/blob/master/RESUME_EN.pdf) [download](https://raw.githubusercontent.com/TeaDove/resume/master/RESUME_EN.pdf)
+- [ru](https://github.com/TeaDove/resume/blob/master/RESUME_RU.md), [pdf](https://github.com/TeaDove/resume/blob/master/RESUME_RU.pdf), [download](https://raw.githubusercontent.com/TeaDove/resume/master/RESUME_RU.pdf)
+- [en](https://github.com/TeaDove/resume/blob/master/RESUME_EN.md), [pdf](https://github.com/TeaDove/resume/blob/master/RESUME_EN.pdf), [download](https://raw.githubusercontent.com/TeaDove/resume/master/RESUME_EN.pdf)
