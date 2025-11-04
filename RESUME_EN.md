@@ -42,7 +42,7 @@ Backend python-go developer
 - Optimized the code in both Python and Go. 
 - Profiled and optimized `SQL` queries for `PostgreSQL`. 
 - Designed and developed a phased move from a monolithic approach to a microservice approach. 
-- Rewrote and optimized the authentication and registration service, as a result of which bugs were fixed, the service speed increased by an average of 2 times, and on some requests - by 10 times. Improved stability and fault tolerance. 
+- Rewrote and optimized the authentication and registration service, as a result bugs were fixed. The service speed increased by an average of 2 times, and on some requests - by 10 times. Improved stability and fault tolerance. 
 - Independently designed and developed solutions and libraries.
 - Developed a high-load service to improve scooter search using data denormalization and a separate DBMS cluster with PostGIS.
 - Developed deployment and infrastructure configuration through IaC: `terraform`, `terragrunt`. I introduced the practice of infrastructure deployment through Terraform and GitLab CI to the team.
